@@ -1,4 +1,4 @@
-package bloque5_poo_avanzada;
+package bloque5_poo_avanzado;
 
 // 'extends' significa que Director hereda todo lo público de Empleado
 public class Director extends Empleado {

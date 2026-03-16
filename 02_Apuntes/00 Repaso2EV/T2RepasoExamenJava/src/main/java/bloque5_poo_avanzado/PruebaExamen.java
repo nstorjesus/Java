@@ -1,4 +1,4 @@
-package bloque5_poo_avanzada;
+package bloque5_poo_avanzado;
 
 public class PruebaExamen {
 
